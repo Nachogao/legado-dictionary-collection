@@ -1,2 +1,3 @@
 # legado-dictionary-collection
-阅读3.0的字典功能源合集
+
+[https://github.com/gedoor/legado 阅读3.0]的字典源，合集

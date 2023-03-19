@@ -1,0 +1,13 @@
+{
+
+  "enabled": true,
+
+  "name": "汉典（简体版）",
+
+  "showRule": "class.content@all",
+
+  "sortNumber": 0,
+
+  "urlRule": "https://www.zdic.net/hans/{{key}}"
+
+}

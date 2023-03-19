@@ -1,0 +1,13 @@
+{
+
+  "enabled": true,
+
+  "name": "Real Academia Española",
+
+  "showRule": "id.resultados@all",
+
+  "sortNumber": 0,
+
+  "urlRule": "https://dle.rae.es/{{key}}"
+
+}

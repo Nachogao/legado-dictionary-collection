@@ -1,0 +1,13 @@
+{
+
+  "enabled": true,
+
+  "name": "汉典（繁体版）",
+
+  "showRule": "class.content@all",
+
+  "sortNumber": 0,
+
+  "urlRule": "https://www.zdic.net/hant/{{key}}"
+
+}
